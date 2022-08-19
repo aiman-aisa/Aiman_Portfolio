@@ -8,7 +8,7 @@
 
 ## Table of Contents
 - [Project 1: IBM Data Scientist Capstone Project, Winning Space Race with Data Science](#project-1-ibm-data-scientist-capstone-project-winning-space-race-with-data-science)
-- [How to Customize Markdown files?](#how-to-customize-markdown-files)
+- [Project 2: Data Analysis on Google Universal Analytics Demo Data Using Tableau](#how-to-customize-markdown-files)
 - [How to Create New Repository?](#how-to-create-new-repository)
 
 # [Project 1: IBM Data Scientist Capstone Project, Winning Space Race with Data Science](https://github.com/aiman-aisa/IBM-Data-Scientist-Applied-Data-Science-Capstone-Project)
