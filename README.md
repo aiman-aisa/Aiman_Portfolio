@@ -11,15 +11,23 @@
 - [How to Customize Markdown files?](#how-to-customize-markdown-files)
 - [How to Create New Repository?](#how-to-create-new-repository)
 
-# [Project 1: Data Analysis on Google Universal Analytics Demo Data Using Tableau](https://github.com/aiman-aisa/TalentLabs-Foundation-Certificate-in-Data-Analytics/tree/main/3.%20Capstone%20Project)
+# [Project 1: IBM Data Scientist Capstone Project, Winning Space Race with Data Science](https://github.com/aiman-aisa/IBM-Data-Scientist-Applied-Data-Science-Capstone-Project)
+In this capstone, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
+
+# [Project 2: Data Analysis on Google Universal Analytics Demo Data Using Tableau](https://github.com/aiman-aisa/TalentLabs-Foundation-Certificate-in-Data-Analytics/tree/main/3.%20Capstone%20Project)
 - Using Tableau
 
 ![](https://github.com/aiman-aisa/Aiman_Portfolio/blob/main/images/Dashboard%201.png)
 
-# [Project 2: IBM Data Scientist Capstone Project, Winning Space Race with Data Science](https://github.com/aiman-aisa/IBM-Data-Scientist-Applied-Data-Science-Capstone-Project)
-In this capstone, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
+# [Project 3: Maven Cycles Reporting using PowerBI](https://github.com/aiman-aisa/Maven-Cycles-Reporting)
 
-# [Project 3: A/B Testing on Commerce User Behavior Data using SQL](https://github.com/aiman-aisa/Data-Wrangling-Analysis-and-AB-Testing-with-SQL/tree/main/Final%20Project)
+![](https://github.com/aiman-aisa/Maven-Cycles-Reporting/blob/main/Executive%20View.png)
+
+# [Project 4: EDA on NBA Trends Data using Python](https://github.com/aiman-aisa/CodeCademy_DataScientist_MLSpecialist/tree/main/Module%208:%20EDA%20in%20Python)
+
+![]()
+
+# [Project 5: A/B Testing on Commerce User Behavior Data using SQL](https://github.com/aiman-aisa/Data-Wrangling-Analysis-and-AB-Testing-with-SQL/tree/main/Final%20Project)
 
 ## Lift and P-values
 - Control success rate: 82%
