@@ -7,7 +7,7 @@
 
 
 ## Table of Contents
-- [Project 2: IBM Data Scientist Capstone Project, Winning Space Race with Data Science](#Project 1: IBM Data Scientist Capstone Project, Winning Space Race with Data Science)
+- [Project 2: IBM Data Scientist Capstone Project, Winning Space Race with Data Science](# Project 1: IBM Data Scientist Capstone Project, Winning Space Race with Data Science)
 - [How to Customize Markdown files?](#how-to-customize-markdown-files)
 - [How to Create New Repository?](#how-to-create-new-repository)
 
