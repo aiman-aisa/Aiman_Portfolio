@@ -11,7 +11,7 @@
 - [How to Customize Markdown files?](#how-to-customize-markdown-files)
 - [How to Create New Repository?](#how-to-create-new-repository)
 
-# [Project 1: TalentLabs Capstone Project, Data Analysis Google Universal Analytics DemoData]([https://github.com/aiman-aisa/TalentLabs-Capstone-Project---Data-Analysis-Project-with-Google-Universal-Analytics-Demo-Data](https://github.com/aiman-aisa/TalentLabs-Foundation-Certificate-in-Data-Analytics/tree/main/3.%20Capstone%20Project))
+# [Project 1: TalentLabs Capstone Project, Data Analysis Google Universal Analytics DemoData](https://github.com/aiman-aisa/TalentLabs-Foundation-Certificate-in-Data-Analytics/tree/main/3.%20Capstone%20Project)
 - Using Tableau
 
 ![](https://github.com/aiman-aisa/Aiman_Portfolio/blob/main/images/Dashboard%201.png)
