@@ -17,11 +17,11 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 # [Project 2: Data Analysis on Google Universal Analytics Demo Data Using Tableau](https://github.com/aiman-aisa/TalentLabs-Foundation-Certificate-in-Data-Analytics/tree/main/3.%20Capstone%20Project)
 - Using Tableau
 
-![](https://github.com/aiman-aisa/Aiman_Portfolio/blob/main/images/Dashboard%201.png)
+![](/images/Dashboard%201.png)
 
 # [Project 3: Maven Cycles Reporting using PowerBI](https://github.com/aiman-aisa/Maven-Cycles-Reporting)
 
-![](https://github.com/aiman-aisa/Maven-Cycles-Reporting/blob/main/Executive%20View.png)
+![](/images/Executive%20View.png)
 
 # [Project 4: EDA on NBA Trends Data using Python](https://github.com/aiman-aisa/CodeCademy_DataScientist_MLSpecialist/tree/main/Module%208:%20EDA%20in%20Python)
 
@@ -36,5 +36,5 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 - p-value of 0.20
 - The test group 1 had 2.5% more viewed items compared to test group 0, the p-value for this lift was 0.2 which  does not meet our threshold for signiȜicance. There is no statistically signiȜicant change to the metrics viewed percent as a result of the treatment.
 
-![](https://github.com/aiman-aisa/Data-Wrangling-Analysis-and-AB-Testing-with-SQL/blob/main/Final%20Project/Percent%20of%20Items%20Viewed%20by%20Test%20Group.png)
-![](https://github.com/aiman-aisa/Data-Wrangling-Analysis-and-AB-Testing-with-SQL/blob/main/Final%20Project/Average%20Views%20per%20item%20by%20Test%20Group.png)
+![](/images/Percent%20of%20Items%20Viewed%20by%20Test%20Group.png)
+![](/images/Average%20Views%20per%20item%20by%20Test%20Group.png)
