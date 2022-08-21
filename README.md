@@ -44,8 +44,15 @@
 ![](/images/Dashboard%201.png)
 
 # [Project 3: Maven Cycles Reporting using PowerBI](https://github.com/aiman-aisa/Maven-Cycles-Reporting)
+- Project objective: To built and end-to-end business intelligence solution for Maven Cycles, a boutique bicycle equipment shop, using raw data containing information about sales, products, customers, and store locations.
+- Utilized Microsoft Power BI to design, build and deploy reports and dashboards to share accross organization
+- Found out that the product which has highest quantity sold is in the accessories category using the key influencers.
+- Built the decomposition tree from country, product category to age group to understand the distribution of the customers in contributing to the total revenue of the business.   
 
 ![](/images/Executive%20View.png)
+![](/images/Key%20Influencers.png)
+![](/images/Decomposition%20Trees.png)
+![](/images/Clustering%20%26%20Grouping.png)
 
 # [Project 4: EDA on NBA Trends Data using Python](https://github.com/aiman-aisa/CodeCademy_DataScientist_MLSpecialist/tree/main/Module%208:%20EDA%20in%20Python)
 
