@@ -1,4 +1,4 @@
-# Hi there, I'm Aiman!
+# Hi there, I'm Aiman and this is My Portfolio!
 
 - An introduction of yourself
 - Skills like Data Analysis, SQL, Python, Tableau, Web Development, etc
