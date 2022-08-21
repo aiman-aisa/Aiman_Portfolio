@@ -14,7 +14,29 @@
 - [Project 5: A/B Testing on Commerce User Behavior Data using SQL](#project-5-ab-testing-on-commerce-user-behavior-data-using-sql)
 
 # [Project 1: IBM Data Scientist Capstone Project, Winning Space Race with Data Science](https://github.com/aiman-aisa/IBM-Data-Scientist-Applied-Data-Science-Capstone-Project)
-In this capstone, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
+- Project Objective: SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch by predicting if the Falcon 9 first stage will land successfully based on dataset from SpaceX API and historical launch records from Wikipedia.
+- Utilized SQL to do initial EDA on the collected datasets.
+- Utilized folium python library to analyzed launch sites locations
+- Created a machine learning pipeline to predict if the first stage will land. Model used includes; 1) K-Nearest Neighbouts, 2) Decision Tree, 3) SVM, 4) Logistic Regression.
+
+### Launch Success Rate for all Launch sites:
+![](images/Launch%20Success%20Rate.png)
+
+### Highest Success Rate Launch site chart:
+![](/images/Highest%20Success%20Rate%20Pie%20chart.png)
+
+
+### Payload vs Launch Outcome:
+![](/images/Payload%20vs%20Launch%20Outcome.png)
+
+
+### Accuracy of each Machine Learning Prediction Model:
+![](/images/ML%20Accuracy.png)
+
+
+### Confusion Matrix of the Best Classification model:
+![](/images/Confusion%20Matrix%20of%20the%20best%20Classifier.png)
+
 
 # [Project 2: Data Analysis on Google Universal Analytics Demo Data Using Tableau](https://github.com/aiman-aisa/TalentLabs-Foundation-Certificate-in-Data-Analytics/tree/main/3.%20Capstone%20Project)
 - Using Tableau
