@@ -49,9 +49,13 @@
 - Found out that the product which has highest quantity sold is in the accessories category using the key influencers.
 - Built the decomposition tree from country, product category to age group to understand the distribution of the customers in contributing to the total revenue of the business.   
 
+### Dashboard
 ![](/images/Executive%20View.png)
+### Key Influencer
 ![](/images/Key%20Influencers.png)
+### Decomposition Trees
 ![](/images/Decomposition%20Trees.png)
+### Clustering & Grouping
 ![](/images/Clustering%20%26%20Grouping.png)
 
 # [Project 4: EDA on NBA Trends Data using Python](https://github.com/aiman-aisa/CodeCademy_DataScientist_MLSpecialist/tree/main/Module%208:%20EDA%20in%20Python)
