@@ -17,7 +17,11 @@
 Project Objective: SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch by predicting if the Falcon 9 first stage will land successfully based on dataset from SpaceX API and historical launch records from Wikipedia.
 - Utilized SQL to do initial EDA on the collected datasets.
 - Utilized folium python library to analyzed launch sites locations
-- Created a machine learning pipeline to predict if the first stage will land. Model used includes; 1) K-Nearest Neighbouts, 2) Decision Tree, 3) SVM, 4) Logistic Regression.
+- Created a machine learning pipeline to predict if the first stage will land. Model used includes; 
+--   1) K-Nearest Neighbouts 
+--   2) Decision Tree
+--   3) SVM 
+--   4) Logistic Regression.
 
 ### Launch Success Rate for all Launch sites:
 ![](images/Launch%20Success%20Rate.png)
