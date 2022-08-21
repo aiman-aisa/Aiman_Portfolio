@@ -1,10 +1,7 @@
 # Hi there, I'm Aiman and this is My Portfolio!
 
-- An introduction of yourself
-- Skills like Data Analysis, SQL, Python, Tableau, Web Development, etc
-- Fancier things like visitor count, clickable icons, etc (can't help you with this as I've not learn it yet 😅)
-- Projects that you're proud of
-
+- Mechanical Engineering background but inspired to work in Data Analytics, Data Science and Machine Learning jobs and projects.
+- Experienced in using Python, SQL, MATLAB, Java, MS Excel, Tableau, Power BI.
 
 ## Table of Contents
 - [Project 1: IBM Data Scientist Capstone Project, Winning Space Race with Data Science](#project-1-ibm-data-scientist-capstone-project-winning-space-race-with-data-science)
