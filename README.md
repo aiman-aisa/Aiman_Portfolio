@@ -18,10 +18,10 @@ Project Objective: SpaceX advertises Falcon 9 rocket launches on its website wit
 - Utilized SQL to do initial EDA on the collected datasets.
 - Utilized folium python library to analyzed launch sites locations
 - Created a machine learning pipeline to predict if the first stage will land. Model used includes; 
---   1) K-Nearest Neighbouts 
---   2) Decision Tree
---   3) SVM 
---   4) Logistic Regression.
+    1) K-Nearest Neighbouts 
+    2) Decision Tree
+    3) SVM 
+    4) Logistic Regression.
 
 ### Launch Success Rate for all Launch sites:
 ![](images/Launch%20Success%20Rate.png)
