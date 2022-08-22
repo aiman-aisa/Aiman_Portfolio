@@ -63,17 +63,35 @@ Project objective: To built and end-to-end business intelligence solution for Ma
 ![](/images/Clustering%20%26%20Grouping.png)
 
 # [Project 4: EDA on NBA Trends Data using Python](https://github.com/aiman-aisa/CodeCademy_DataScientist_MLSpecialist/tree/main/Module%208:%20EDA%20in%20Python)
+Project Objective: To analyze analyze data from the NBA (National Basketball Association) and explore possible associations.
 
-![]()
+- Analyzed the relationship between score points for different teams.
+   - Found out that Nets and Celtics earned different average scores compared to other teams.
+- Analyzed the relationship between the game results (Win or Lose) based on game locations (Away or Home).
+   - Found out that team playing at home game tends to win more compared to away game.
+- Analyzed the relationship between projected win probability and the point differential (margin of victory/defeat).
 
-# [Project 5: A/B Testing on Commerce User Behavior Data using SQL](https://github.com/aiman-aisa/Data-Wrangling-Analysis-and-AB-Testing-with-SQL/tree/main/Final%20Project)
+### Box plots showing score points distribution for games in 2010 for each teams
+![](/images/box%20plot.png)
+
+### Table showing the game results for away and home game 
+The Chi squared value is more than 4 which shows associations between categorical variables.
+![](/images/away_home.png)
+
+### Scatter plot between projected win probability and the point differential
+We can see that there is a positive correlation. In fact the correlation value is 0.44 with covariance of 1.37.
+![](/images/Scatter%20Plot.png)
+
+# [Project 5: A/B Testing on E-Commerce User Behavior Data using SQL](https://github.com/aiman-aisa/Data-Wrangling-Analysis-and-AB-Testing-with-SQL/tree/main/Final%20Project)
+
+Project Objective: Run A/B Testing on E-Commerce User Behavior Data using SQL. 
 
 ## Lift and P-values
 - Control success rate: 82%
 - Treatment success rate: 84%
 - Lift of 2.6%
 - p-value of 0.20
-- The test group 1 had 2.5% more viewed items compared to test group 0, the p-value for this lift was 0.2 which  does not meet our threshold for signiȜicance. There is no statistically signiȜicant change to the metrics viewed percent as a result of the treatment.
+- The test group 1 had 2.5% more viewed items compared to test group 0, the p-value for this lift was 0.2 which  does not meet our threshold for significance. There is no statistically significant change to the metrics viewed percent as a result of the treatment.
 
 ![](/images/Percent%20of%20Items%20Viewed%20by%20Test%20Group.png)
 ![](/images/Average%20Views%20per%20item%20by%20Test%20Group.png)
