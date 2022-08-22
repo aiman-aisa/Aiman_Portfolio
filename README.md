@@ -74,12 +74,14 @@ Project Objective: To analyze analyze data from the NBA (National Basketball Ass
 ### Box plots showing score points distribution for games in 2010 for each teams
 ![](/images/box%20plot.png)
 
-### Table showing the game results for away and home game 
-The Chi squared value is more than 4 which shows associations between categorical variables.
+### Table showing the game results for away and home game. 
+- The Chi squared value is more than 4 which shows associations between categorical variables.
+
 ![](/images/away_home.png)
 
 ### Scatter plot between projected win probability and the point differential
-We can see that there is a positive correlation. In fact the correlation value is 0.44 with covariance of 1.37.
+- We can see that there is a positive correlation. In fact the correlation value is 0.44 with covariance of 1.37.
+
 ![](/images/Scatter%20Plot.png)
 
 # [Project 5: A/B Testing on E-Commerce User Behavior Data using SQL](https://github.com/aiman-aisa/Data-Wrangling-Analysis-and-AB-Testing-with-SQL/tree/main/Final%20Project)
